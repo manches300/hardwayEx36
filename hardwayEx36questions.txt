@@ -12,7 +12,7 @@ Pentagram%TRICKRIDDlE%Some months have 30 days. Some months have 31 days. How ma
 Square%TRIVIA%Date of the signing of the Declaration of Independence?%july 4 1776 7%3%70%80
 Square%TRIVIA%Who was the first President of the United States?%washington%1%60%70
 Square%TRIVIA%How many colonies was the United States originally?%13 thirteen%1%90%100
-Square%TRIVIA%Today in the United States government there are two major political parties.  The Republicians are one of the parties who is the other party?%democrat democrats democratic%1%90%100
+Square%TRIVIA%Today in the United States government there are two major political parties. The Republicians are one of the parties who is the other party?%democrat democrats democratic%1%90%100
 Square%TRIVIA%How many Senators are in the US congress?%100%1%100%110
 Triangle%MATH%100 / 20 = %5%1%50%60
 Triangle%MATH%20 * (3 + 2) = %100%1%70%80

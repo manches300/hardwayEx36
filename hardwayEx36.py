@@ -65,7 +65,6 @@ class RoomQuestionList(object):
         for eachLine in rawFileData:
             parsedLine = eachLine.strip().split("%")
             if parsedLine[0] == self.roomName:
-                print parsedLine
                 thisQuestionObject = [self.roomName, parsedLine[1], parsedLine[2], parsedLine[3].split(" "), int(parsedLine[4]), int(parsedLine[5]), int(parsedLine[6])]
                 self.questions.append(thisQuestionObject)
         rawFileData.close()
@@ -111,8 +110,12 @@ def chooseADoor(curRoom, correctQs):
     print "You can choose from:"
     for x in range(0, correctQs):
         print curRoom.doorList[x]
-    strvar = raw_input("Which door would you like?")
-    return strvar
+    atlast = True
+    while atlast:
+        strvar = raw_input("Which door would you like?")
+        if strvar in curRoom.doorList:
+            return strvar
+        print "Try using a capital first letter, and check your spelling!"
 
 ## parseAndPrintASearchDiagram ##
 ## Function                    ##
@@ -156,7 +159,7 @@ def askNScore(Q):
         print "Copy the line EXACTLY for your answer."
         print Q[2]
     strvar = raw_input("Your answer:")
-    answers = strvar.strip().split(" ")
+    answers = strvar.lower().strip().split(" ")
     number_of_correct_answers = 0
     for each in answers:
         if each in Q[3]:
@@ -227,9 +230,10 @@ def _main():
         else:
             print "Program error, we should never be here."
         again = raw_input("Would you like to play again? Y or N >>")
-        if again == "N":
+        again = again.lower()
+        if again == "n":
             play_a_game = False
-        elif again != "Y":
+        elif again != "y":
             print "LOL because you can't follow simple instructions, now you must play again!"
         else:
             pass
