@@ -1,0 +1,9 @@
+Enter%This is the riddle room. It has 3 doors, so we have 3 riddles. They vary in difficulty, but are pretty easy.%Square Pentagon Circle
+Pentagram%This is the logic problem room. It has 5 doors, so we have 4 logic problems. They vary in difficulty.%Dungeon Enter Trangle Circle Star
+Square%This is the history room. It has 4 doors, so we have 4 history trivia problems. They vary in difficulty. But are pretty easy.%Enter Triangle Circle Star
+Triangle%This is the math room. It has 3 doors, so we have 3 riddles. They vary in difficulty. But are pretty easy.%Pentagram Square Circle
+Dungeon%Oops, the door behind you closes with a slam.  In the dim light, you can see devices of torture.% %
+Circle% This is the clerical room. It has 5 doors, so we have 5 problems. They vary in difficulty. But are pretty easy.%Enter Triangle Pentagram Square Star
+Star%This is the general knowledge room. It has 5 doors with one dead, but we have 4 questions. They vary in difficulty. But are pretty easy.%Cell Circle Pentagram Square Royal
+Padded Cell%You enter the room and hear the soft click of the door behind you. There appears to be only one question. "Who are you?". You may choose to answer, but there appear to be no other doors, and the one you came in in locked. There is padding on all the walls, ceiling and floor.% %
+Royal%Congartualtion! You are a superstar of knowledge! This room is filled with golden treasure and your own personal crown and throne! The news corps will be here shortly to take your picture and statement. Good Luck! Game Over.% %

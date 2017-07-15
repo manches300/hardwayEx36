@@ -1,0 +1,34 @@
+Enter%RIDDLE%What has a face and two hands but no arms or legs?%clock%1%20%40
+Enter%RIDDLE%What has to be broken before you can use it?%egg eggs%1%30%50
+Enter%RIDDLE%What has a neck but no head?%bottle%1%40%50
+Enter%RIDDLE%He has married many women, but has never been married. Who is he?%priest preist rabi rabbi pastor minister reverand revrand reverend%1%50%60
+Enter%RIDDLE%What two things can you never eat for breakfast?%lunch dinner supper brunch%2%60%70
+Pentagram%SEARCH3%rataxenot%rat tar axe not ton ran%3%40%50
+Pentagram%SEARCH4%flitaeroteirerse%flit fate aero leer iris tore fat lee ate rot lit ore sea tree%8%80%90
+Pentagram%SEARCH5%todayreadyafterioeeonedwg%today day dot read ready den train rain foe date dated tad  weed gory few ton not red%10%90%100
+Pentagram%TRICKRIDDLE%You have two U.S. coins that add up to thirty cents. One is not a nickel. What coins are they?%quarter nickel 30 5%2%70%110
+Pentagram%TRICKRIDDLE%A farmer had nine sheep, and all but seven died. How many did he have left?%seven 7%1%60%70
+Pentagram%TRICKRIDDlE%Some months have 30 days. Some months have 31 days. How many months have 28 days?%12 all twelve%1%70%80
+Square%TRIVIA%Date of the signing of the Declaration of Independence?%july 4 1776 7%3%70%80
+Square%TRIVIA%Who was the first President of the United States?%washington%1%60%70
+Square%TRIVIA%How many colonies was the United States originally?%13 thirteen%1%90%100
+Square%TRIVIA%Today in the United States government there are two major political parties.  The Republicians are one of the parties who is the other party?%democrat democrats democratic%1%90%100
+Square%TRIVIA%How many Senators are in the US congress?%100%1%100%110
+Triangle%MATH%100 / 20 = %5%1%50%60
+Triangle%MATH%20 * (3 + 2) = %100%1%70%80
+Triangle%MATH%If 4x (2 - (-3) = 80, then x = %4%1%90%100
+Triangle%MATH%If 2y - 400 = 600, then y = %500%1%90%100
+Triangle%MATH%If x = 5, then x cubed = %125%1%100%110
+Triangle%MATH%1/2 x * 1/2 x = %1/4 x 1/4x%1%120%130
+Triangle%MATH%Wilson drove 6 kilometers from his house to Riverville. From Riverville, Wilson drove 9 kilometers to Pond Village. Then he drove 14 kilometers from Pond Village to Streamburg. How far did Wilson drive in all, from his house to Streamburg?%29%1%100%110
+Circle%CLERIcAL%0100110001010111010101011010010101001010110%0100110001010111010101011010010101001010110%1%70%80
+Circle%CLERIcAL%7272727272777272722227227272727772772227272%7272727272777272722227227272727772772227272%1%70%80
+Circle%CLERIcAL%Z2ZZZZ22Z22Z222Z2Z22Z22Z2Z2Z22Z22Z2Z222Z2Z2%Z2ZZZZ22Z22Z222Z2Z22Z22Z2Z2Z22Z22Z2Z222Z2Z2%1%90%100
+Circle%CLERIcAL%l1l1ll1l1ll1ll1l1l1ll1l1ll1l1ll1l11l1l1l111%l1l1ll1l1ll1ll1l1l1ll1l1ll1l1ll1l11l1l1l111%1%120%130
+Circle%CLERIcAL%""'""''"'"'''"''""''"""'""'"""'"''''''"''''%""'""''"'"'''"''""''"""'""'"""'"''''''"''''%1%150%160
+Star%GENERAL%You are watching the sunset, which general direction are you facing?%w west%1%50%60
+Star%GENERAL%You have a cube with an X on each of 3 sides. Can any of them have a side not adjacent to another side with an X?%y yes%1%70%80
+Star%GENERAL%The relationship between "b" and "d" is the same as the relationship between "p" and what?%q%1%60%70
+Star%GENERAL%How many rings appear on the Olympic flag?%5%1%80%90
+Star%GENERAL%Which is the atomic sign for Helium on the periodic table? H2o HE FE FG FE?%he%1%90%100
+Star%GENERAL%In Greek mythology, Hades is the God of what?	Love Sea Sky Underworld?%underworld%1%80%90
